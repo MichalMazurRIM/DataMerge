@@ -1,0 +1,63 @@
+PODSUMOWANIE DANYCH
+====================
+
+Liczba wierszy: 13
+Liczba kolumn: 6
+
+Kolumny:
+ - telefon
+ - miasto
+ - nazwisko
+ - _source_file
+ - wiek
+ - imie
+
+Braki danych (NA) w kolumnach:
+ - telefon: 9
+ - miasto: 9
+ - nazwisko: 0
+ - _source_file: 0
+ - wiek: 0
+ - imie: 0
+
+Statystyki liczbowe:
+      count       mean        std   min   25%   50%   75%   max
+wiek   13.0  42.923077  14.494031  19.0  34.0  42.0  44.0  78.0
+
+Najczęstsze wartości w kolumnach tekstowych:
+
+telefon:
+telefon
+505505505    1
+600600555    1
+600000000    1
+585858585    1
+
+miasto:
+miasto
+Wroclaw    1
+Poznan     1
+Praga      1
+Brak       1
+
+nazwisko:
+nazwisko
+Nowak       2
+Prot        2
+Bir         2
+Kowalski    1
+Tokar       1
+
+_source_file:
+_source_file
+plik_1.csv     5
+plik_2.csv     4
+plik_3.xlsx    4
+
+imie:
+imie
+Anna        2
+Aneta       2
+Arleta      2
+Jan         1
+Grzegorz    1
